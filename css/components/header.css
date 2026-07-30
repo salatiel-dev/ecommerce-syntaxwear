@@ -1,0 +1,47 @@
+.header {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 40px);
+  border-radius: 15px;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 28px;
+  background-color: #ffffff;
+}
+
+.logo a {
+  display: inline-block;
+  height: 40px;
+}
+
+.nav-center ul {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.nav-center a, .nav-right a {
+  font-size: 1.25rem;
+}
+
+.nav-center a:hover, .nav-right a:hover {
+  font-size: 1.25rem;
+  color: #7C3AED;
+}
+ .nav-right ul {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-right a img {
+  height: 20px;
+}
+
+.nav-right a:hover img {
+  filter: brightness(0) saturate(100%) invert(46%) sepia(92%) saturate(749%) hue-rotate(245deg) brightness(95%) contrast(97%);
+}
