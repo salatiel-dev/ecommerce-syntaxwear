@@ -10,7 +10,8 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 20px 28px;background-color: #ffffff;
+	padding:0.255rem 1.25rem;
+	background-color: #ffffff;
 }
 
 .logo img {
@@ -25,6 +26,7 @@
 .nav-center a,
 .nav-right a {
     font-size: 1.25rem;
+	color:#333333;
 }
 
 .nav-center a:hover,
