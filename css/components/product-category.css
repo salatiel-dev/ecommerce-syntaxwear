@@ -44,3 +44,9 @@
 .futurista {
   background: url("../../img/produtos/futurista.jpg") no-repeat center / cover;
 }
+
+@media (max-width: 500px) {
+  .categories-card {
+    width: 100%;
+  }
+}
