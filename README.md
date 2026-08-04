@@ -1,6 +1,6 @@
 # SyntaxWear
 
-Projeto de landing page e-commerce para uma marca de tênis e sneakers, com foco em estética moderna, responsividade e experiência visual imersiva.
+Projeto de landing page e-commerce para uma marca de tênis, com foco em estética moderna, responsividade e experiência visual imersiva.
 
 ## 📌 Sobre o projeto
 
